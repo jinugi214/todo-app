@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, useNavigate, useParams, Link } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 function HeaderComponent() {
     return (
